@@ -1,0 +1,97 @@
+--------------------------------------------------------------------------
+
+
+|                                IC Info                                 |
+
+
+--------------------------------------------------------------------------
+
+
+| Name: Khirsah Roshah                   Affiliation: Lucent Hypertech   |
+
+
+|                                                                        |
+
+
+| Profile: Khirsah is known mostly in the upper-class sections of the    |
+
+
+|          city, where his position as one of the head enforcers of the  |
+
+
+|          will of Lucent Hypertech is well-known. A reptilian genemod   |
+
+
+|          to begin with, Khirsah has apparently recieved a fair bit of  |
+
+
+|          augmentation, as his reaction time and speed are literally    |
+
+
+|          superhuman. Combined with his well-known accuracy with the    |
+
+
+|          pistols he always packs, his enforcer rep is one reinforced   |
+
+
+|          by fear - he has a habit of making sure that not even Avalon  |
+
+
+|          can repair the damage he does to those he's sent after, which |
+
+
+|          apparently keeps his good standing with the corp intact -     |
+
+
+|          although whether this is from pleasure at his skill, respect  |
+
+
+|          for his ability, or fear that he might turn on them otherwise |
+
+
+|          is anyone's guess.                                            |
+
+
+--------------------------------------------------------------------------
+
+
+|                                 OOC Info                               |
+
+
+--------------------------------------------------------------------------
+
+
+| ST 14 |                                                                |
+
+
+| DX 20 |                                                                |
+| IQ 13 |                                                                |
+| HT 15 |                                                                |
+--------------------------------------------------------------------------
+| Skill                          Points                      Level       |
+| Guns (Semi-Automatic)           4                          22         |
+| Stealth                          2                          20         |
+| Interrogation                   20                          18         |
+| Driving (Motorcycle)             1                          19         |
+--------------------------------------------------------------------------
+| Advantage                  Value | Disadvantage                  Value |
+| Combat Reflexes              15  | Callous                         -5  |
+| Boosted Reflexes (5)         35  | Debt (20)                      -20  |
+| Cyberarm (2)                  8  | Light Sleeper                   -5  |
+| Cybereye (2)                  8  | Loner                           -5  |
+| Weapon Link                  15  | Dislikes drugs                  -1  |
+| Polarization                  5  | Like: Lucent Z-85 Pistols       -1  |
+|                                  | Proud                           -1  |
+|                                  | Staid                           -1  |
+|                                  | Trademark (gunshot pattern)     -1  |
+--------------------------------------------------------------------------
+| Notes: Khirsah is actually the closest thing Lucent has to a fully     |
+|        rogue agent; while he acknowledges his debt to them for the     |
+|        cybernetic implants, many of the victims of his 'missions' are  |
+|        actually Lucent employees, hunted down and exterminated on his  |
+|        own whim. He justifies the murders by listing them as traitors, |
+|        and so far the company hasn't questioned him. It's doubtful if  |
+|        they could really do anything to him, without sending a full    |
+|        CorpSec team to neutralize him - his augmentation has left him  |
+|        nearly unstoppable in combat.                                   |
+--------------------------------------------------------------------------
