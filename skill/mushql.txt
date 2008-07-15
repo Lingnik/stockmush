@@ -1,0 +1,8 @@
+&SP_allusertraits skill=SELECT cf_user.dbref, cf_trait.category, cf_trait.name, cf_usertrait.level FROM cf_user, cf_usertrait, cf_trait WHERE cf_user.dbref = cf_usertrait.dbref AND cf_usertrait.traitid = cf_trait.traitid ORDER BY cf_user.dbref, cf_trait.category, cf_trait.name
+&SP_alltraits skill=SELECT cf_trait.category, cf_trait.name, cf_trait.description from cf_trait
+&SP_allusers skill=SELECT cf_user.dbref FROM cf_user ORDER BY cf_user.dbref
+
+&CMD_TEST skill=$skill/test:@pe %#=
+[iter([sql(u(skill/sp_allusers),,|)],
+[iter([sql(v(sp_allusertraits),|,^)],[name(extract(##,1,1,^))]:,|)]
+)]
