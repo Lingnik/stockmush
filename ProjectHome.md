@@ -1,0 +1,1 @@
+PennMUSH comes with no code, stock. There are tools available out there already. This is a contribution to those tools.
